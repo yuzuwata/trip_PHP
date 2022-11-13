@@ -1,4 +1,4 @@
-# README
+# トリップ製造機
 脳みそからっぽで作りました
 </br>
 https://pc.casey.jp/archives/2452
@@ -6,4 +6,4 @@ https://pc.casey.jp/archives/2452
 </br>
 おかしな点ございましたら報告お願いします
 </br>
-現在未完成
+現在未完成?
